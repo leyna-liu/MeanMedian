@@ -1,9 +1,9 @@
 Package: MeanMedian
 Type: Package
-Title: What the Package Does (Short Line)
+Title: Mean Minus Median Calculator
 Version: 1.0
 Date: 2025-11-14
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line).
-License: What license is it under?
+Author: Leyna Gao Liu
+Maintainer: Who to complain to <lliu170@berkeley.edu>
+Description: This is a mean minus median calculator. It can calculate the mean minus median for any set of numbers. Finding the mean minus the median is especially helpful when trying to figure out the efficiency of votes between different parties to see if there is gerrymandering.
+License: MIT
