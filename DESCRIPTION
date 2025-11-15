@@ -7,3 +7,7 @@ Author: Leyna Gao Liu
 Maintainer: Who to complain to <lliu170@berkeley.edu>
 Description: This is a mean minus median calculator. It can calculate the mean minus median for any set of numbers. Finding the mean minus the median is especially helpful when trying to figure out the efficiency of votes between different parties to see if there is gerrymandering.
 License: MIT
+RoxygenNote: 7.3.3
+Depends: 
+    R (>= 3.5)
+LazyData: true
